@@ -41,6 +41,6 @@ To test the models, follow these steps:
 ## Authors
 
 - **Amer Zuher ALriahy** - [Amer's GitHub Profile](https://github.com/AmerZuher)
-- **Hisham Maher Sunjaq** - [Hisham's GitHub Profile](https://github.com/HishamSunjeq)
+- **Hisham Maher Sunjaq** - [Hisham's GitHub Profile](https://github.com/HishamSanjag)
 
 # Thanks for your time.
